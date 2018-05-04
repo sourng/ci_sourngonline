@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2018/04/28" author="e.World Technology Ltd.">
+  <project id="{B265B2F0-D7B4-4E03-9AA3-B62949EF8DE5}" file="" name="project1" product="PHPMaker" version="14.0" datetime="2018/04/28 03:04:33" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="admin" name="admin" caption="admin" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="attendance" name="attendance" caption="attendance" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="book" name="book" caption="book" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="ci_sessions" name="ci_sessions" caption="ci sessions" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="class" name="class" caption="class" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="class_routine" name="class_routine" caption="class routine" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="document" name="document" caption="document" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="dormitory" name="dormitory" caption="dormitory" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="exam" name="exam" caption="exam" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="expense_category" name="expense_category" caption="expense category" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="grade" name="grade" caption="grade" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="invoice" name="invoice" caption="invoice" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="_language" name="language" caption="language" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="lessons" name="lessons" caption="lessons" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="mark" name="mark" caption="mark" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="message" name="message" caption="message" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="message_thread" name="message_thread" caption="message thread" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="noticeboard" name="noticeboard" caption="noticeboard" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="parent" name="parent" caption="parent" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="payment" name="payment" caption="payment" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="section" name="section" caption="section" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="settings" name="settings" caption="settings" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="slides" name="slides" caption="slides" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="student" name="student" caption="student" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="subject" name="subject" caption="subject" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="teacher" name="teacher" caption="teacher" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="transport" name="transport" caption="transport" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="users" name="users" caption="users" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>
